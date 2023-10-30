@@ -35,7 +35,7 @@ $.addEventListener("DOMContentLoaded", () => {
 
     try {
       const response = await axios.post(
-        "https://site--form-backend--c9n4rr6v2pd4.code.run/",
+        "https://site--form-backend--c9n4rr6v2pd4.code.run/form/",
         data
       );
 
