@@ -29,7 +29,7 @@ $.addEventListener("DOMContentLoaded", () => {
       firstname: $.querySelector("#firstname").value,
       lastname: $.querySelector("#lastname").value,
       email: $.querySelector("#email").value,
-      subject: $.querySelector("#subject").value,
+      // subject: $.querySelector("#subject").value,
       message: $.querySelector("#message").value,
     };
 
